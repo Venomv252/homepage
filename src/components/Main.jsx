@@ -9,10 +9,10 @@ export default function First() {
           style
         </p>
         <div class="hero-cta">
-          <a class="cta-btn primary" href="/courses" data-discover="true">
+          <a class="cta-btn primary" href="" data-discover="true">
             Explore Courses
           </a>
-          <a class="cta-btn secondary" href="/auth" data-discover="true">
+          <a class="cta-btn secondary" href="" data-discover="true">
             Join Now
           </a>
         </div>
