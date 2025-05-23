@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-left">
           <h1 className="logo">
-            <a href=""><span className="blue">Edu</span><span className="green">Connect</span></a>
+            <a href="https://homepage-one-lyart.vercel.app/"><span className="blue">Edu</span><span className="green">Connect</span></a>
           </h1>
           <p className="tagline">Learn. Grow. Succeed.</p>
         </div>

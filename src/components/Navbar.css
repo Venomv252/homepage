@@ -1,4 +1,4 @@
-/* Base reset and layout */
+
 * {
     box-sizing: border-box;
   }
@@ -24,8 +24,7 @@
     z-index: 100;
     transition: all 0.3s ease;
   }
-  
-  /* Left Side */
+
   .navbar-left {
     display: flex;
     flex-direction: column;
@@ -55,8 +54,7 @@
     margin-top: -4px;
     letter-spacing: 0.3px;
   }
-  
-  /* Right Side */
+
   .navbar-right {
     display: flex;
     align-items: center;
@@ -92,7 +90,7 @@
     transform: scale(1.03);
   }
   
-  /* Responsive tweaks */
+
   @media (max-width: 768px) {
     .navbar {
       flex-direction: column;
